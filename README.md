@@ -7,6 +7,7 @@
 
 <strong>AI/Data Engineer | Scholar | Tech Enthusiast</strong><br>
 I am deeply passionate about using software to solve complex challenges beyond human capabilities. Aspire to develop innovative solutions that bridge the gap between advanced technology and practical applications.<br><br>
+
 🌍 Based in Boulder, CO <br>
 💼 Currently working at Medtronic <br>
 📚 Specializing in Data Engineering <br>
