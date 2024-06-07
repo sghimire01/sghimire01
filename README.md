@@ -19,12 +19,5 @@ Passionate about building scalable systems and researching innovative solutions 
 </tr>
 </table>
 
-<p allign = "center">
-📊 This week I spent my time on:
-<pre>                     
-SQL      ███████████████░░░  90%
-Python   █████████░░░░░░░░░  45%
-FASTAPI  █████████████░░░░░  70%
-</pre>
 🚀 Always learning, continuously growing.<br>
 </p>
