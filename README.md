@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" align="center"><img src="img.png" width="300" style="display:block;"/></td>
+<td valign="middle" style="text-align: center; vertical-align: middle; height: 300px;"><img src="img.png" width="300" style="vertical-align: middle;"/></td>
 <td valign="top">
 
 <h2>👋 Hi, I'm Samyak!</h2>
