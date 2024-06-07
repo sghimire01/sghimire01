@@ -7,7 +7,6 @@
 
 <strong>AI/Data Engineer | Scholar | Tech Enthusiast</strong><br>
 Passionate about building scalable systems and researching innovative solutions in software development.<br><br>
-
 🌍 Based in Boulder, CO <br>
 💼 Currently working at Medtronic <br>
 📚 Specializing in Data Engineering <br>
