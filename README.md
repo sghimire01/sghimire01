@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top"><img src=img.png width="300"/></td>
+<td valign="top" align="center"><img src="img.png" width="300" style="display:block;"/></td>
 <td valign="top">
 
 <h2>👋 Hi, I'm Samyak!</h2>
@@ -20,4 +20,3 @@ Passionate about building scalable systems and researching innovative solutions 
 </table>
 
 🚀 Always learning, continuously growing.<br>
-</p>
