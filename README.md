@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top"><img src="https://cdn.discordapp.com/attachments/805670453930754109/1248764915649478716/Screenshot_2024-06-07_155801.png" width="300"/></td>
+<td valign="top"><img src=img.png width="300"/></td>
 <td valign="top">
 
 <h2>👋 Hi, I'm Samyak!</h2>
