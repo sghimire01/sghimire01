@@ -6,7 +6,7 @@
 <h2>👋 Hi, I'm Samyak!</h2>
 
 <strong>AI/Data Engineer | Scholar | Tech Enthusiast</strong><br>
-I am deeply passionate about leveraging machine learning and automation to solve complex challenges beyond human capabilities. Aspiring to become a machine learning expert, I thrive on applying object-oriented programming principles to develop innovative solutions that bridge the gap between advanced technology and practical applications.<br><br>
+I am deeply passionate about using software to solve complex challenges beyond human capabilities. Aspire to develop innovative solutions that bridge the gap between advanced technology and practical applications.<br><br>
 🌍 Based in Boulder, CO <br>
 💼 Currently working at Medtronic <br>
 📚 Specializing in Data Engineering <br>
